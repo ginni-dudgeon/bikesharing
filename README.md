@@ -1,8 +1,14 @@
 # bikesharing
 
 Overview
+
 A team has asked for assistance in determining if a new idea is a good investment. The idea is to create a bike sharing business in Des Moines. The idea was based on the current bike sharing business in New York City. To determine if this is a good fit for the city of Des Moines, this analyst was asked to review information taken from Citibike data in 2019. The data was analyzed and broken down into types of users, the peak times bikes were rented and the number of users of the service. Jupyter Notebook and tableau were used for this project.
 
+Jupyter Notebook with challenge code:
+
+<img width="1175" alt="Deliverable 1 Convert Tripduration - 1" src="https://user-images.githubusercontent.com/105091538/190946860-21c28a4d-22ee-41da-9bb0-745515fe460b.png">
+
+<img width="1097" alt="Deliverable 1 Convert Tripduration - 2" src="https://user-images.githubusercontent.com/105091538/190946902-70c4179e-b4be-47b4-a6fe-394f2c6d3a7a.png">
 
 A story on Tableau was created with visualizations.
 
